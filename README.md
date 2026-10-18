@@ -68,7 +68,7 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,fastapi,django,postgres&theme=dark" alt="AI and backend stack" />
 <br/>
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,docker,kubernetes,aws,arch&theme=dark" alt="Frontend and infra stack" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,docker,kubernetes,aws" alt="Frontend and infra stack" />
 
 </div>
 
