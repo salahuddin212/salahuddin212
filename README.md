@@ -1,94 +1,87 @@
+<!-- ░░ header · tap it, it's a door ░░ -->
+<a href="https://salahuddinbayassi.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1A0A0B,55:4A1218,100:C2313F&section=header&text=salahuddin.&fontSize=60&fontColor=F3E6E4&fontAlignY=38&desc=I%20build%20AI%20that%20ships.&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="salahuddin — I build AI that ships" />
+</a>
+
 <div align="center">
-  <h1>⬡ Hi, I'm <b>Salahuddin</b> 👋</h1>
-  <p><i>Building intelligent AI systems and practical software that solves complex real-world problems.</i></p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=35&lines=A.I.+Engineer;Computer+Vision+Specialist;Data+Science+Practitioner;Full-Stack+Developer" alt="Typing SVG" />
+<sub><code>latent · dim 768</code> &nbsp;·&nbsp; <code>denoising · step 03 / 24</code> &nbsp;·&nbsp; <code>Istanbul · UTC+3</code></sub>
 
-  <br/>
+<br/><br/>
 
-  <a href="https://salahuddinbayassi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/salahuddin-bayassi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=E4505C&center=true&vCenter=true&width=640&height=32&lines=%3E+next+token+%C2%B7+p%3D0.91+%E2%86%92+ships;%3E+next+token+%C2%B7+p%3D0.84+%E2%86%92+scales;%3E+next+token+%C2%B7+p%3D0.79+%E2%86%92+sees;%3E+next+token+%C2%B7+p%3D0.76+%E2%86%92+reads" alt="next token: ships · scales · sees · reads" />
+
+<br/><br/>
+
+<i>Most models die in a notebook.<br/>I build everything around them that lets them survive real traffic and real people.</i>
+
+<br/><br/>
+
+<a href="https://salahuddinbayassi.vercel.app/"><img src="https://img.shields.io/badge/look_inside_↗-1A0A0B?style=for-the-badge&logo=vercel&logoColor=E4505C" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/salahuddin-bayassi"><img src="https://img.shields.io/badge/linkedin-1A0A0B?style=for-the-badge&logo=linkedin&logoColor=E4505C" alt="LinkedIn" /></a>
+<a href="mailto:salahuddinbayassi@gmail.com"><img src="https://img.shields.io/badge/say_hi-1A0A0B?style=for-the-badge&logo=gmail&logoColor=E4505C" alt="Email" /></a>
+
 </div>
 
 <br/>
 
----
+### ⌬ `model.summary()`
 
-### ❯ `whoami`
-
-```python
-# ┌────────────────────────────────────────────────────────────────────────────────┐
-# │   ███████╗░█████╗░██╗░░░░░░█████╗░██╗░░██╗██╗░░░██╗██████╗░██████╗░██╗███╗░░██╗│
-# │   ██╔════╝██╔══██╗██║░░░░░██╔══██╗██║░░██║██║░░░██║██╔══██╗██╔══██╗██║████╗░██║│
-# │   ███████╗███████║██║░░░░░███████║███████║██║░░░██║██║░░██║██║░░██║██║██╔██╗██║│
-# │   ╚════██║██╔══██║██║░░░░░██╔══██║██╔══██║██║░░░██║██║░░██║██║░░██║██║██║╚████║│
-# │   ███████║██║░░██║███████╗██║░░██║██║░░██║╚██████╔╝██████╔╝██████╔╝██║██║░╚███║│
-# │   ╚══════╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚═════╝░╚═════╝░╚═╝╚═╝░░╚══╝│
-# └────────────────────────────────────────────────────────────────────────────────┘
-
-class SalahuddinBayassi:
-    def __init__(self):
-        self.role = "A.I. Engineer"
-        self.focus = [
-            "Artificial Intelligence & Machine Learning",
-            "Computer Vision & Deepfake Detection",
-            "Data Science & Insight Discovery",
-            "Reliable Software Architectures"
-        ]
-        self.os = "Arch Linux 🐧"
-        self.status = "Architecting Intelligence"
-        
-    def execute_mission(self):
-        return """
-        Turning advanced artificial intelligence research and complex data 
-        into reliable, high-performance software that operates seamlessly in production.
-        """
+```text
+Model: "salahuddin"
+─────────────────────────────────────────────────────────────────────────────
+ Layer (type)            Does                          Weights
+═════════════════════════════════════════════════════════════════════════════
+ L1 · LLMSystems         agents · RAG · self-checks    LangGraph · pgvector
+ L2 · DeepLearning       train → serve → scale         PyTorch · FastAPI · Celery
+ L3 · ComputerVision     finds things in photo/video   YOLO · EfficientNet · OpenCV
+ L4 · Software           the app around the model      Next.js · Django · Postgres
+ L5 · Data               experiments → decisions       SQL · pandas · A/B tests
+═════════════════════════════════════════════════════════════════════════════
+ Prev. deployed: Gateworx (camera AI)   Trainable params: still growing
+ Full render: salahuddinbayassi.vercel.app
 ```
 
-<br/>
+### ⟡ `training.log`
 
-### ◈ CORE PILLARS
+```diff
+  epochs, newest first
 
-> ⌬ **Artificial Intelligence, Deep Learning & Data Science**  
-> Designing and training custom neural networks with PyTorch, transforming complex data into clear insights, and building predictive AI models. Hands-on experience tackling advanced research domains, particularly in **computer vision** and **deepfake detection**.
++ ep.now   loss.backward() on new open-source AI work ........ stay tuned
+  ep.prev  shipped camera models for theft, fire & crowds ...... @ Gateworx
+! status   open to AI engineering roles & freelance work
+```
 
-> ⬡ **Full-Stack Software Engineering**  
-> Writing clean, efficient, and maintainable code. Skilled in **Python, C++, SQL, React, and Next.js**, I construct dependable backends and fast user interfaces that scale smoothly as projects grow.
+### ◈ fig. 01 — from notebook to production
 
-> ⟡ **Production AI & Model Deployment**  
-> Bridging the gap between machine learning models and real-world software. Focused on model optimization, structuring clean data pipelines, and deploying reliable AI solutions that run efficiently in production.
+```mermaid
+flowchart LR
+    A["📓 notebook"] --> B["🧠 model"] --> C["⚙️ service"] --> D["🌍 real users"]
+    D -. feedback .-> B
+```
 
-<br/>
+<sub>↳ a static sketch. the <a href="https://salahuddinbayassi.vercel.app/">live version</a> moves.</sub>
 
-### ⬡ TECH STACK MATRIX
-
-| ⟨/⟩ **Core Languages** | ⌬ **AI & Data Science** | ⬡ **Web & Databases** | ⚙ **Infrastructure & Tools** |
-| :--- | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Linux Shell](https://img.shields.io/badge/Linux_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) |
-| | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) | | |
-
-<br/>
-
-### ⟡ SYSTEM ANALYTICS
+### ⬡ stack
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=salahuddin212&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Salahuddin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=salahuddin212&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,fastapi,django,postgres&theme=dark" alt="AI and backend stack" />
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,docker,kubernetes,aws,arch&theme=dark" alt="Frontend and infra stack" />
+
 </div>
 
 <br/>
 
----
-
 <div align="center">
-  <sub>✦ Driven by technical rigor and continuous iteration • <code>salahuddin@arch-linux:~$ exit</code></sub>
+
+<sub>this page is the source code.&nbsp; <a href="https://salahuddinbayassi.vercel.app/"><b>the render lives here ↗</b></a></sub>
+<br/>
+<sub><code>salahuddin@arch-linux:~$ exit</code> &nbsp;·&nbsp; <code>denoising · step 24 / 24</code></sub>
+
 </div>
+
+<a href="https://salahuddinbayassi.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:C2313F,45:4A1218,100:1A0A0B&section=footer" width="100%" alt="" />
+</a>
